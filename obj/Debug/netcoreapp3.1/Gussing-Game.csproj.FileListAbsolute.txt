@@ -1,0 +1,13 @@
+C:\Users\SHAKTI\source\repos\Gussing-Game\bin\Debug\netcoreapp3.1\Gussing-Game.exe
+C:\Users\SHAKTI\source\repos\Gussing-Game\bin\Debug\netcoreapp3.1\Gussing-Game.deps.json
+C:\Users\SHAKTI\source\repos\Gussing-Game\bin\Debug\netcoreapp3.1\Gussing-Game.runtimeconfig.json
+C:\Users\SHAKTI\source\repos\Gussing-Game\bin\Debug\netcoreapp3.1\Gussing-Game.runtimeconfig.dev.json
+C:\Users\SHAKTI\source\repos\Gussing-Game\bin\Debug\netcoreapp3.1\Gussing-Game.dll
+C:\Users\SHAKTI\source\repos\Gussing-Game\bin\Debug\netcoreapp3.1\Gussing-Game.pdb
+C:\Users\SHAKTI\source\repos\Gussing-Game\obj\Debug\netcoreapp3.1\Gussing-Game.csprojAssemblyReference.cache
+C:\Users\SHAKTI\source\repos\Gussing-Game\obj\Debug\netcoreapp3.1\Gussing-Game.AssemblyInfoInputs.cache
+C:\Users\SHAKTI\source\repos\Gussing-Game\obj\Debug\netcoreapp3.1\Gussing-Game.AssemblyInfo.cs
+C:\Users\SHAKTI\source\repos\Gussing-Game\obj\Debug\netcoreapp3.1\Gussing-Game.csproj.CoreCompileInputs.cache
+C:\Users\SHAKTI\source\repos\Gussing-Game\obj\Debug\netcoreapp3.1\Gussing-Game.dll
+C:\Users\SHAKTI\source\repos\Gussing-Game\obj\Debug\netcoreapp3.1\Gussing-Game.pdb
+C:\Users\SHAKTI\source\repos\Gussing-Game\obj\Debug\netcoreapp3.1\Gussing-Game.genruntimeconfig.cache
